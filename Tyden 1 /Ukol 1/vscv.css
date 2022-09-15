@@ -59,8 +59,7 @@ h4 {
 } 
 
 .aboutme {
-    float: auto;
-    text-align:inline-end;
+    text-align: center;
 }
 
 table {
